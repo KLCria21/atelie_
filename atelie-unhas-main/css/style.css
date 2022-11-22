@@ -1,0 +1,73 @@
+@media (max-width:768px) {
+    
+}
+
+.menu{
+
+    background-color: deeppink;
+}
+.zoom {
+    transition: transform, 1s;
+}
+
+.zoom:hover {
+    transform: scale(1.06544154);
+    transition: transform, 1s;
+}
+.mb-6{
+   width: 512px;
+}
+
+.titulo{
+    text-align: center;
+}
+.pagamento{
+    width: 512px;
+    
+}
+.main{
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    width: 850px;
+    margin: auto;
+    box-shadow: 8px 6px 17px 0px rgb(0 0 0 / 49%);
+    color: rgb(0, 0, 0);
+}
+
+.loginn{
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    width: 650px;
+    margin: auto;
+    box-shadow: 8px 6px 17px 0px rgb(0 0 0 / 49%);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.sobre{
+    text-align: center;
+}
+
+.rodapé{
+
+    background-color: deeppink;
+    padding: 15px;
+    width: 1007px;
+    margin: auto;
+    color: #ffffff;
+    display: flex;
+
+}
+
+.faleconosco{
+
+    margin-right: 100px;
+}
+
+.insta{
+    display: flex;
+    padding-left: 130px;
+}
+
